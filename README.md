@@ -2,7 +2,7 @@
 ## Forensics
 ### Docker Babe
 - <code> docker pull pakkunandy/docker-babe </code>
-- <code> docker run -t -i pakkunandy/docker-babe </code>
+- <code> docker run -t -i pakkunandy/docker-babe bash</code>
 - <code> cat flag.txt </code>
 - Flag: HCMUS-CTF{Docker_Is_an_essential_tool_You_have_to_learn_FORRRRSURRREEEE}
 
