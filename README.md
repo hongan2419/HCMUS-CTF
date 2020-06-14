@@ -39,6 +39,10 @@ print(flag)
 ```
 - Flag: HCMUS-CTF{Sh0uld_I_Us3_NoSQL_N3xt_T1m3_0x3f3f3f}
 
+### Funny Express
+- Payload: ?query[toString]=0
+- Flag: HCMUS-CTF{DidntKn0wN0d3JSW0uld_be_sooo00z_Funny}
+
 ## RE
 ### Patient Revenge Revenge
 - Patch file exe để vô hiệu hóa timer :D
